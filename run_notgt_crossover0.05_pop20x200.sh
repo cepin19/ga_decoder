@@ -1,0 +1,1 @@
+python run_notgt_crossover0.05_pop20x200.py > out_rescored_no_ref_dict_tgt_crossover0.05_pop20x200 2> out_rescored_no_ref_dict_tgt_crossover0.05_pop20x200.log 
